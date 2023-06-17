@@ -13,6 +13,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <DebugType>embedded</DebugType>
     <SignAssembly>true</SignAssembly>
+    <AssemblyVersion>0.27.2.0</AssemblyVersion>
     <AssemblyOriginatorKeyFile>..\libgit2sharp.snk</AssemblyOriginatorKeyFile>
     <PackageIcon>square-logo.png</PackageIcon>
     <PackageReadmeFile>App_Readme/README.md</PackageReadmeFile>
