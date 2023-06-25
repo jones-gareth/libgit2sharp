@@ -3,16 +3,17 @@
   <PropertyGroup>
     <TargetFrameworks>net472;net6.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Description>LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET</Description>
-    <Company>LibGit2Sharp contributors</Company>
+    <Description>LibGit2Sharp with modifications to allow proxy access</Description>
+    <Company>Glysade LLC and LibGit2Sharp contributors</Company>
     <Copyright>Copyright © LibGit2Sharp contributors</Copyright>
     <PackageTags>libgit2 git</PackageTags>
-    <PackageProjectUrl>https://github.com/libgit2/libgit2sharp/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jones-gareth/libgit2sharp</PackageProjectUrl>
     <Authors>LibGit2Sharp contributors</Authors>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <DebugType>embedded</DebugType>
     <SignAssembly>true</SignAssembly>
+    <PackageId>libgit2sharp-proxy-enabled</PackageId>
     <AssemblyOriginatorKeyFile>..\libgit2sharp.snk</AssemblyOriginatorKeyFile>
     <PackageIcon>square-logo.png</PackageIcon>
     <PackageReadmeFile>App_Readme/README.md</PackageReadmeFile>
